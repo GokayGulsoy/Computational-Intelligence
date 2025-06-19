@@ -17,5 +17,5 @@ Repository for the CENG632 course that I have taken at IZTECH
 13. Ant Colony Optimization
 14. Project Presentations
 
-[Link to course project](https://github.com/GokayGulsoy/Traveling-Salesman-Problem-Hybrid-Genetic-Algorithm-with-2-opt-Heuristic-Local-Search-Simulator)
+[Link to course project](../../../Traveling-Salesman-Problem-Hybrid-Genetic-Algorithm-with-2-opt-Heuristic-Local-Search-Simulator)
 
